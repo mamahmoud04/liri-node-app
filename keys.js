@@ -1,4 +1,5 @@
-require("dotenv").config();
+require('dotenv').config();
+
 
 exports.spotify = {
     id: process.env.SPOTIFY_ID,
